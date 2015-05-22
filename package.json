@@ -1,0 +1,23 @@
+{
+  "name": "schematic",
+  "version": "0.0.0",
+  "description": "Collects mongoose schema definitions and stores them in an associative array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikolasleblanc/schematic"
+  },
+  "keywords": [
+    "mongoose",
+    "schema"
+  ],
+  "author": "Nikolas LeBlanc <nikolas.leblanc@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikolasleblanc/schematic/issues"
+  },
+  "homepage": "https://github.com/nikolasleblanc/schematic"
+}
