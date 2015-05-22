@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/nikolasleblanc/schematic/issues"
   },
-  "homepage": "https://github.com/nikolasleblanc/schematic"
+  "homepage": "https://github.com/nikolasleblanc/schematic",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
 }
