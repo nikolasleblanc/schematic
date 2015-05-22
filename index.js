@@ -9,7 +9,7 @@ module.exports = function(schemaPath) {
 
   _.each(files, function(file) {
     if (file !== "schemas.js") {
-      schemas[file.split(".")[0]] = require(path.resolve(path.join(schemaPath, file));
+      schemas[file.split(".")[0]] = require(path.resolve(path.join(schemaPath, file)));
     }
   });
 
