@@ -1,6 +1,6 @@
 {
-  "name": "schematic",
-  "version": "0.0.0",
+  "name": "mongoose-schematic",
+  "version": "0.0.1",
   "description": "Collects mongoose schema definitions and stores them in an associative array",
   "main": "index.js",
   "scripts": {
